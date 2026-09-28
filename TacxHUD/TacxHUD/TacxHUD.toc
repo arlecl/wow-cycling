@@ -1,0 +1,4 @@
+## Interface: 30300
+## Title: TacxHUD
+## Notes: Live cycling stats display (speed, power, distance, elevation)
+TacxHUD.lua

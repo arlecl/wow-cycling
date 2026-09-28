@@ -1,4 +1,4 @@
-# Tacx Smart Trainer + World of Warcraft Cycling App
+# Tacx Smart Trainer + World of Warcraft Cycling App on Linux
 
 Ride real (recorded) roads inside a private World of Warcraft server using a
 Tacx smart trainer. Pedaling drives your in-game speed and steering; real
